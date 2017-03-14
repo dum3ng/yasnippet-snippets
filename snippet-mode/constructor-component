@@ -1,0 +1,11 @@
+# -*- mode: snippet -*-
+# name: cons
+# key: cons
+# group: react
+# --
+constructor(props) {
+  super(props)
+  this.state = {
+  $0
+}
+}
